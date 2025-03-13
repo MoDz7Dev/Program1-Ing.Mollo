@@ -1,0 +1,13 @@
+TOMAR EN CUENTA QUE ESTOS SOLO SON LOS ARCHIVOS .CS (LENGUAJE C#), YA QUE VI MAS PRACTICO SUBIR UNICAMENTE ESTOS
+Y LOS .EXE (EJECUTABLES) PARA TENER UNA IDEA DE LA LOGICA Y EL FUNCIONAMIENTO DE ESTE PROGRAMA, TODOS LOS APUNTES,
+PRACTICOS, PROYECTOS Y MODELOS DE EXAMEN FUERON REALIZADOS EN VISUAL STUDIO PRO 2012
+
+-Apuntes:
+Casi todos tienen comentarios que ayuden a comprender cual su funcion en el programa 
+(En matrices no me di el tiempo de poner comentarios...)
+
+-Practicos:
+Unicamente Vectores y Matrices les falta la parte 2 del practico, no encontre donde guarde esos proyectos finales
+
+-Modelos de Examen:
+Modelos de examen para los 2 parciales del ing.Mollo con 1 o varias formas de resolver
